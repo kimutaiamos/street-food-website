@@ -53,8 +53,11 @@
     font-size: large;
 
 }
-.deals{
+.deall{
     display: flex;
+}
+.deals{
+    display:flex
 }
 .drinks{
     color: seagreen ;
