@@ -68,7 +68,8 @@
 .old{
     color:#6CB840 ;
 }
-.human{
-    display: flex;
-    justify-content: center;
+.us{
+    background:#90C8EB;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
