@@ -48,3 +48,11 @@
 .menu{
     display: flex;
 }
+.burger{
+    color: seagreen;
+    font-size: large;
+
+}
+.deals{
+    display: flex;
+}
