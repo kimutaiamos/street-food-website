@@ -63,8 +63,12 @@
     color: seagreen ;
 }
 .pizz{
-    background-color:#6CB840 ;
+    background-color:#97c47f ;
 }
 .old{
     color:#6CB840 ;
+}
+.human{
+    display: flex;
+    justify-content: center;
 }
