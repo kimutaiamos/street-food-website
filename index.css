@@ -80,3 +80,10 @@
     height: 4vh;
     background-color: #6CB840;
 }
+.send2{
+    border-box: 90px 80px 90px 80px;
+    border: transparent;
+    height: 5vh;
+    background-color:#6CB840;
+    border-right: 20px;
+}
