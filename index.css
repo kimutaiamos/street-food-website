@@ -45,3 +45,6 @@
 .together{
     color: rosybrown;
 }
+.menu{
+    display: flex;
+}
