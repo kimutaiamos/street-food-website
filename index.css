@@ -1,5 +1,7 @@
 .home{
-    background-color: #C4D9FB;
+    background-image:url(./Untitled@2x.png);
+    background-size: cover;
+    height: 100vh;
 }
 
 .coder ul{
@@ -110,4 +112,6 @@
     display: flex;
     font-size: 5vh;
 }
-
+.trial{
+    float: right;
+}
