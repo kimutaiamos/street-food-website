@@ -31,7 +31,7 @@
     color: #6CB840;
 }
 .eat{
-    color: yellow;
+    color: #EAAB1B;
 }
 .order{
     background-color:#6CB840 ;
@@ -41,6 +41,7 @@
 }
 .food{
     font-family: Poppins;
+    font-size: 5vh;
 }
 .meat{
     color: rosybrown;
@@ -53,7 +54,7 @@
 }
 .burger{
     color: seagreen;
-    font-size: large;
+    font-size: 5vh;
 
 }
 .deall{
@@ -103,6 +104,10 @@
 }
 .cheese{
     color:#EAAB1B;
+    font-size: 5vh;
+}
+.explore{
+    display: flex;
     font-size: 5vh;
 }
 
