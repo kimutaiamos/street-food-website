@@ -63,10 +63,10 @@
     display:flex
 }
 .drinks{
-    color: seagreen ;
+    color: #6CB840 ;
 }
 .pizz{
-    background-color:#97c47f ;
+    background-color:#6CB840 ;
 }
 .old{
     color:#6CB840 ;
@@ -84,7 +84,7 @@
     background-color: #6CB840;
 }
 .send2{
-    border-box: 90px 80px 90px 80px;
+    border-box: 90px 90px 90px 90px;
     border: transparent;
     height: 5vh;
     background-color:#6CB840;
@@ -95,5 +95,10 @@
     justify-content: space-evenly;
     background-color: #C9ECB5;
 }
-
+.expe{
+    display: flex;
+}
+.expe .expe2{
+    padding-top: 200px;
+}
 
