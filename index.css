@@ -2,6 +2,7 @@
     background-image:url(./Untitled@2x.png);
     background-size: cover;
     height: 100vh;
+  
 }
 
 .coder ul{
@@ -43,7 +44,7 @@
 }
 .food{
     font-family: Poppins;
-    font-size: 5vh;
+    font-size: 2h;
 }
 .meat{
     color: rosybrown;
@@ -87,7 +88,7 @@
     background-color: #6CB840;
 }
 .send2{
-    border-box: 90px 90px 90px 90px;
+    border-box:90px 90px 90px 90px;
     border: transparent;
     height: 5vh;
     background-color:#6CB840;
@@ -114,4 +115,10 @@
 }
 .trial{
     float: right;
+}
+.name{
+    background-color:#C9ECB5;
+}
+.large{
+    background-color: #C9ECB5;
 }
