@@ -54,6 +54,7 @@
 }
 .menu{
     display: flex;
+    font-size: 5vh;
 }
 .burger{
     color: seagreen;
@@ -115,6 +116,7 @@
 }
 .trial{
     float: right;
+    
 }
 .name{
     background-color:#C9ECB5;
