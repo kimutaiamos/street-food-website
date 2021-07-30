@@ -120,5 +120,25 @@
     background-color:#C9ECB5;
 }
 .large{
-    background-color: #C9ECB5;
+    background-color: rgb(39, 238, 172);
 }
+.hour{
+    background-color: #97a19d;
+    color: #ffd87cf1;   
+   padding: auto;
+   margin-block-end: auto;
+}
+#put{
+    background-color:#7a6d6d ;
+    border-radius: 30px 30px 30px 30px;
+    border: transparent;
+    height: 4vh;
+}
+#kimuu{
+    background-color:#0936a0 ;
+    border: transparent;
+    height: 4vh;
+}
+
+    
+    
